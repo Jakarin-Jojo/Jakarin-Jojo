@@ -1,7 +1,9 @@
 ### <h1 align="center"> Hi, I'm Jakrin. Welcome to my Github profile. 👋 </h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakarin-Jojo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakarin-Jojo&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Contact 📱
+---
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakarin-chujan-a3aa52231/)
 <!--
 **Jakarin-Jojo/Jakarin-Jojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
