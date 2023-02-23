@@ -1,5 +1,6 @@
 ### <h1 align="center"> Hi, I'm Jakrin. Welcome to my Github profile. 👋 </h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakarin-Jojo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakarin-Jojo&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakarin-Jojo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jakarin-Jojo&langs_count=15&layout=compact&show_icons=true&theme=radical"/>
 
 ### Contact 📱
 ---
